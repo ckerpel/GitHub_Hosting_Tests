@@ -68,10 +68,8 @@ body{
    font-size: 30px;
    color: #00BCD4
 }
-footer{
+#rodape, #git-link{
    font-size: 12px;
    display: block;
    text-align: center;
-
-
 }
